@@ -1,8 +1,25 @@
-# React + Vite
+# vrvAssignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+This project consists of a frontend and backend to handle the various aspects of the application. It uses Node.js and other relevant technologies for both parts.
 
-Currently, two official plugins are available:
+## Project Setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Frontend Setup
+
+1. Navigate to the `frontend` directory:
+   ```bash
+   cd frontend
+
+
+2. Install dependencies:
+   ```bash
+   npm init
+
+
+1. Start the frontend:
+   ```bash
+   npm run dev
